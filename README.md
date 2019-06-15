@@ -1,14 +1,12 @@
 # FMCW-Radar-Simulator
+# This project is not funed by any organization.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                FMCW Radar Simulator               %
-%                                                   %
-% Author: Lin Junyang                               %
-% Email : linjy@163.com                             %
-% Date  : 2019-6-15                                 %
-%                                                   %
-% All Rights Reserved.                              %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+-----------------------------------------------------  
+  Author: Lin Junyang   
+  Email : linjy@163.com  
+  Date  : 2019-6-15    
+  All Rights Reserved.  
+-----------------------------------------------------
 
 1) This is a MATLAB based FMCW RF Radar Simulator. 
 2) It generates FMCW radar for close handwave chirp level signal data. 
