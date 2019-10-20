@@ -3,7 +3,8 @@
 
 -----------------------------------------------------  
   Author: Lin Junyang   
-  Email : linjy@163.com  
+  Email : liynjy@163.com  
+  WeChat: liynjy
   Date  : 2019-6-15    
   All Rights Reserved.  
 -----------------------------------------------------
