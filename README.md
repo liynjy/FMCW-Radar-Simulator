@@ -18,7 +18,7 @@
 
 Author introduction: Lin Junyang
 -- Radar Algorithm, Data Analysis expert
--- IC algorithm Implementation expert
+-- IC algorithm expert
 -- FPGA, Embbed Systems expert
 
 Contact me by Wechat:  liynjy
