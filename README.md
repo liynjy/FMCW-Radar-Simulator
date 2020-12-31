@@ -5,7 +5,6 @@
   Author: Lin Junyang   
   Email : liynjy@163.com  
   WeChat: liynjy
-  Date  : 2019-6-15    
 -----------------------------------------------------
 
 1) This is a MATLAB based FMCW RF Radar Simulator. 
@@ -14,10 +13,3 @@
 4) As a charllenge, can you develope your algorithm to detect the handwave directions: LEFT or RIGHT.
 5) Run main.m in matlab to start trying out.
 
-
-Author introduction: Lin Junyang
--- Radar Algorithm, Data Analysis
--- IC algorithm
--- FPGA, Embbed Systems expert
-
-Contact me by Wechat:  liynjy
