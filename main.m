@@ -2,8 +2,9 @@
 %                FMCW Radar Simulator               %
 %                                                   %
 % Author: Lin Junyang                               %
-% Email : linjy@163.com                             %
-% Date  : 2019-6-15                                 %
+% Email : liynjy@163.com                             %
+% Wechat: liynjy
+% Date  : 2020-12-13                                %
 %                                                   %
 % All Rights Reserved.                              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -22,3 +23,8 @@ close all
 disp('Radar data processing...');
 radar_data_processing
 disp('Radar data processing finished.');
+
+% disp('Handwave direction analysis...');
+% radar_data_analysis_handwave
+% disp('Handwave direction analysis finished.');
+
