@@ -13,3 +13,7 @@
 4) As a charllenge, can you develope your algorithm to detect the handwave directions: LEFT or RIGHT.
 5) Run main.m in matlab to start trying out.
 
+2020-12-31 Update：
+Added experimental algorithm to detec the handwave direction:
+1) Caculating the tangential speed of hand movement -- Vt
+2) If Vt>0, hanvewave direction is right; If Vt<0, handwave direction is left.
