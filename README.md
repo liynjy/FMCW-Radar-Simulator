@@ -17,3 +17,6 @@
 Added an experimental algorithm to detect the handwave direction:
 1) Caculating the tangential speed of hand movement -- Vt
 2) If Vt>0, hanvewave direction is right; If Vt<0, handwave direction is left.
+
+20220213
+According to practical experience, it is more stable to use phase difference algorithm for angle measurement.Handwave direction  can be determined after the angle curve is caculated. 
